@@ -4,10 +4,11 @@
 echo "Brew Installed"
 
 brew install cask heroku mongodb node postgresql rbenv
+brew install autoconf gettext libpng node python@2 webp cabextract git libtiff openjpeg rbenv wine dart git-open libtool openssl readline winetricks docker heroku libyaml p7zip ruby-build xz docker-compose heroku-node little-cms2 pcre2 sass yarn fortune icu4c mongodb pkg-config speedtest-cli zsh freetype imagemagick mysql postgresql sqlite zsh-completions gdbm jpeg ncurses python unrar
 
 echo "Brew Libraries Installed"
 
-brew cask install flycut google-chrome iterm2 slack spectacle visual-studio-code mongodb-compass postman
+brew cask install google-chrome slack alfred flycut opera spectacle xquartz aware gimp pgadmin4 spotify zoomus balsamiq-mockups iterm2 postman timer calibre itsycal qbittorrent visual-studio-code cloudapp mongodb-compass skype vlc figma mysqlworkbench sourcetree 
 
 echo "Installed Development Programs"
 
